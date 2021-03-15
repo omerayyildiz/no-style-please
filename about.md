@@ -32,23 +32,22 @@ NISANTASI UNIVERSITY, Graphic Design — ASSOCIATE DEGREE, 2020
 
 ## SKILLS
 
-- Project Management **(Expert)**,
-- Growth Management **(Expert)**,
-- Product Design **(Expert)**,
-- Advertising and Marketing **(Expert)**,
-- Linux **(Intermediate)**,
-- BASH **(Expert)**,
-- Markdown/Write Docs **(Expert)**,
-- C Programming **(Beginner)**,
-- Ruby **(Intermediate)**,
-- Git **(Expert)**,
-- GitHub **(Expert)**,
-- Adobe Illustrator **(Intermediate)**,
-- Adobe Photoshop **(Intermediate)**,
-- Adobe XD **(Beginner)**,
-- Figma **(Intermediate)**,
-- After Effects **(Beginner)**,
-- Fusion 360 **(Beginner)**.
+- Project Management,
+- Growth Management,
+- Product Design,
+- Advertising and Marketing,
+- Linux,
+- BASH,
+- Markdown/Writing Doc,
+- C Programming,
+- Ruby,
+- Git and GitHub,
+- Adobe Illustrator,
+- Adobe Photoshop,
+- Adobe XD,
+- Figma,
+- After Effects,
+- Fusion 360.
 
 ## CERTIFICATES AND COURSES
 

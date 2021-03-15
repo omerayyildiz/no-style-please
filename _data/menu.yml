@@ -2,23 +2,25 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: ~$ whoami
+  - title: 🀄️ About Me
     entries:
       - title: 18 Years Old, Turkish of Arab Descent
       - title: Graphics Designer and Baby System Programmer
       - title: Team Leader <a href="https://eebrainteam.com" target="_blank">[@eebrainteam]</a> & Moderator <a href="https://sdtr.dev" target="_blank">[@sdtrdev]</a>
       - title: Learn More?
-        url: about
-
-  - title: ~$ socialmedia
+        url: /about
+  
+  - title: 
+  - title: 🌐 Social Media
     entries:
-      - title: <a href="https://github.com/omerayyildiz" target="_blank">[github]</a>
+      - title: <a href="https://github.com/omerayyildiz" target="_blank">github</a>
       - title: <a href="https://twitter.com/omerayyildiz101" target="_blank">[twitter]</a>
       - title: <a href="https://behance.net/omerayyildiz" target="_blank">[behance]</a>
       - title: <a href="https://medium.com/@omerayyildiz" target="_blank">[medium]</a>
       - title: <a href="https://linkedin.com/in/omer-ayyildiz-00000" target="_blank">[linkedin]</a>
   
-  - title: ~$ projects
+  - title:
+  - title: 🛠 Projects
     entries:
       - title: <a>[Creator] Pardus-AutoSetup <a href="https://github.com/omerayyildiz/Pardus-AutoSetup" target="_blank">(repo)</a></a>
       - title: <a>[Creator] beginnerGit <a href="https://github.com/omerayyildiz/beginnerGit" target="_blank">(repo)</a></a>
@@ -41,13 +43,15 @@ entries:
       - title: <a>[Contributor] Shell Cheatsheet <a href="https://github.com/merveenoyan/shell-cheatsheet" target="_blank">(repo)</a></a>
       - title: <a>[Contributor] GNU/Linux PNM OS <a href="https://github.com/pnmlinux" target="_blank">(repo)</a></a>
   
-  - title: ~$ communities
+  - title:    
+  - title: 💪 Communities
     entries:
       - title: <a>[Growth Manager, Moderator] <a href="https://sdtr.dev" target="_blank">SDTR</a></a>
       - title: <a>[Designer] <a href="https://trcpp.org" target="_blank">C++ Turkey</a></a>
       - title: <a>[Consultant] <a href="https://mirket.org" target="_blank">Mirket - Virtual Library</a></a>
-      
-  - title: ~$ clients
+  
+  - title:    
+  - title: 🤝 Clients
     entries:
       - title: <a>[Government] <a href="https://www.btk.gov.tr" target="_blank">BTK</a>,
                 <a href="https://meb.gov.tr" target="_blank">MEB</a>,
@@ -59,7 +63,8 @@ entries:
       - title: <a>[Education] <a href="https://www.csystem.org" target="_blank">CSD</a>, VIP Campus (Levent), Akademi Atletik</a>
       - title: <a>[Community] 10+ Discord Communities, 5+ Student Clubs, 2 Slack Communities 
 
-  - title: ~$ posts
+  - title:    
+  - title: 📚 Posts
     post_list:
       limit: 5
       show_more: false
