@@ -24,7 +24,7 @@ A community of over 1000 people, including famous software developers and design
 
 **FREELANCER; — 2017-PRESENT**
 
-I successfully brought brand, poster, logo, banner and many design works to my customers. Thanks to the good communication I have established with people, many of my customers have been satisfied with my service.
+I successfully brought brand, poster, logo, banner and many design pieces of work. Thanks to the good communication I have established with people, many of my customers have been satisfied with my service.
 
 ## EDUCATION
 
