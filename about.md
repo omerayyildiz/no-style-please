@@ -10,6 +10,10 @@ I have been interested in software and design for about 4 years. Currently, I'm 
 
 ## EXPERIENCE
 
+**FOUNDER, NISHGT DESIGN COMMUNITY; ISTANBUL — MAR 2021-PRESENT**
+
+I'm responsible for the management of all operations, designs, and marketing in this community that I have established with great enthusiasm. We are working hard to achieve good work in the field of graphic design. In a short time like a month, I have successfully established the whole ecosystem that operates between management and sub-teams and I continue to develop it.
+
 **TEAM LEADER, EEBRAINTEAM; ISTANBUL — JUN 2020-PRESENT**
 
 We produce creative design for communities and organizations. In addition, I also take place in the management of many projects from the design phase to the development phase.
@@ -18,11 +22,11 @@ We produce creative design for communities and organizations. In addition, I als
 
 I'm designing the brand design for the community and the content that needs to be prepared for the event.
 
-**MODERATOR, SOFTWARE DEVELOPMENT TURKEY; — NOV 2018-PRESENT**
+**MODERATOR, SOFTWARE DEVELOPMENT TURKEY; NOV 2018-PRESENT**
 
 A community of over 1000 people, including famous software developers and designers. I am responsible for the organization and management of many events in this community.
 
-**FREELANCER; — 2017-PRESENT**
+**FREELANCER; 2017-PRESENT**
 
 I successfully brought brand, poster, logo, banner and many design pieces of work. Thanks to the good communication I have established with people, many of my customers have been satisfied with my service.
 
@@ -32,10 +36,14 @@ NISANTASI UNIVERSITY, Graphic Design — ASSOCIATE DEGREE, 2020
 
 ## SKILLS
 
+- Strong Communication,
 - Project Management,
+- Team and Community Management,
+- Successful Marketing Strategies,
+- Creative Ideas,
+- Documentation Preparation
 - Growth Management,
 - Product Design,
-- Advertising and Marketing,
 - Linux,
 - BASH,
 - Markdown/Writing Doc,
@@ -48,6 +56,9 @@ NISANTASI UNIVERSITY, Graphic Design — ASSOCIATE DEGREE, 2020
 - Figma,
 - After Effects,
 - Fusion 360.
+
+
+
 
 ## CERTIFICATES AND COURSES
 
