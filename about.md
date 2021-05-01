@@ -18,7 +18,7 @@ I'm responsible for the management of all operations, designs, and marketing in 
 
 We produce creative design for communities and organizations. In addition, I also take place in the management of many projects from the design phase to the development phase.
 
-**GRAPHICS DESIGNER, TRCPP.ORG; ISTANBUL — FEB 2020-PRESENT**
+**GRAPHIC DESIGNER, TRCPP.ORG; ISTANBUL — FEB 2020-PRESENT**
 
 I'm designing the brand design for the community and the content that needs to be prepared for the event.
 
