@@ -123,6 +123,10 @@ Platform olarak [Pinterest](https://www.pinterest.com/omerayyildiz101/)'ten kola
 
 Bu başlık için ayrıca bir yazı yazmayı da planlıyorum. Umarım yakın zamanda size onu da paylaşabilirim.
 
+Son olarak bana destek olmak isterseniz Digital Ocean'a [referans linkimi](https://m.do.co/c/620252259874) kullanarak kayıt olabilirsiniz.
+
 Sevgi ve huzur dolu zamanlar dilerim.
 
 Ömer Ayyıldız
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=620252259874&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
