@@ -22,35 +22,35 @@ entries:
   - title:
   - title: Projects
     entries:
-      - title: <b>[Creator]</b> <a> Pardus-AutoSetup <a href="https://github.com/omerayyildiz/Pardus-AutoSetup" target="_blank">(repo)</a></a>
-      - title: <b>[Creator]</b> <a> beginnerGit <a href="https://github.com/omerayyildiz/beginnerGit" target="_blank">(repo)</a></a>
-      - title: <b>[Creator]</b> <a> nishgt 
+      - title: <a>[Creator] Pardus-AutoSetup <a href="https://github.com/omerayyildiz/Pardus-AutoSetup" target="_blank">(repo)</a></a>
+      - title: <a>[Creator] beginnerGit <a href="https://github.com/omerayyildiz/beginnerGit" target="_blank">(repo)</a></a>
+      - title: <a>[Creator] nishgt 
                 <a href="https://github.com/nishgt/" target="_blank">(repo)</a>
                 <a href="https://nishgt.art" target="_blank">(website)</a>
                </a>
-      - title: <b>[Creator]</b> <a> Spotify Moodboard
+      - title: <a>[Creator] Spotify Moodboard
                 <a href="https://github.com/omerayyildiz/moodboard.omerayyildiz.com" target="_blank">(repo)</a>
                 <a href="https://moodboard.omerayyildiz.com" target="_blank">(website)</a>
                </a>
-      - title: <b>[Manager]</b> <a> PentaCore
+      - title: <a>[Manager] PentaCore
                 <a href="https://github.com/omerayyildiz/PentaCore-1" target="_blank">(repo)</a>
                 <a href="https://play.google.com/store/apps/details?id=com.eksioglu.faruk.elementler&hl=tr&gl=US" target="_blank">(store)</a>
                </a>
-      - title: <b>[Designer]</b> <a> Source Pocket
+      - title: <a>[Designer] Source Pocket
                 <a href="https://github.com/sdtrdev/source-pocket" target="_blank">(repo)</a>
                 <a href="https://sourcepocket.sdtr.dev" target="_blank">(website)</a>
                </a>
-      - title: <b>[Contributor]</b> <a> Shell Cheatsheet <a href="https://github.com/merveenoyan/shell-cheatsheet" target="_blank">(repo)</a></a>
-      - title: <b>[Contributor]</b> <a> TR Spam Calls Database <a href="https://github.com/tr-spam-calls/tr-spam-calls" target="_blank">(repo)</a></a>
-      - title: <b>[Contributor]</b> <a> GNU/Linux PNM OS <a href="https://github.com/pnmlinux" target="_blank">(repo)</a></a>
+      - title: <a>[Contributor] Shell Cheatsheet <a href="https://github.com/merveenoyan/shell-cheatsheet" target="_blank">(repo)</a></a>
+      - title: <a>[Contributor] TR Spam Calls Database <a href="https://github.com/tr-spam-calls/tr-spam-calls" target="_blank">(repo)</a></a>
+      - title: <a>[Contributor] GNU/Linux PNM OS <a href="https://github.com/pnmlinux" target="_blank">(repo)</a></a>
   
   - title:    
   - title: Communities
     entries:
-      - title: <b>[Growth Manager, Moderator]</b> <a href="https://sdtr.dev" target="_blank">SDTR</a>
-      - title: <b>[Founder]</b> <a href="https://connect.nishgt.art" target="_blank">nishgt | Design Community</a>
-      - title: <b>[Designer]</b> <a href="https://trcpp.org" target="_blank">C++ Turkey</a>
-      - title: <b>[Consultant]</b> <a href="https://mirket.org" target="_blank">Mirket - Virtual Library</a>
+      - title: <a>[Growth Manager, Moderator] <a href="https://sdtr.dev" target="_blank">SDTR</a></a>
+      - title: <a>[Founder] <a href="https://connect.nishgt.art" target="_blank">nishgt | Design Community</a></a>
+      - title: <a>[Designer] <a href="https://trcpp.org" target="_blank">C++ Turkey</a></a>
+      - title: <a>[Consultant] <a href="https://mirket.org" target="_blank">Mirket - Virtual Library</a></a>
   
   - title:    
   - title: Clients
@@ -68,11 +68,11 @@ entries:
   - title: 
   - title: 2021 Goals
     entries:
-      - title: <a> [%0] Joining a creative company/team.</a>
-      - title: <a> [%10] Advance in book design.</a>
-      - title: <a> [%2] Specializing in manga and comics.</a>
-      - title: <a> [%13] Becoming an Apple ecosystem developer.</a>
-      - title: <a> [%30] Developing applications running on the cloud.</a>
+      - title: <a>[%0] Joining a creative company/team.</a>
+      - title: <a>[%10] Advance in book design.</a>
+      - title: <a>[%2] Specializing in manga and comics.</a>
+      - title: <a>[%13] Becoming an Apple ecosystem developer.</a>
+      - title: <a>[%30] Developing applications running on the cloud.</a>
 
   - title:    
   - title: Posts
