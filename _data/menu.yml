@@ -68,9 +68,9 @@ entries:
   - title: 
   - title: 2021 Goals
     entries:
-      - title: <a>[%0] Joining a creative company/team.</a>
+      - title: <a>[%00] Joining a creative company/team.</a>
       - title: <a>[%10] Advance in book design.</a>
-      - title: <a>[%2] Specializing in manga and comics.</a>
+      - title: <a>[%02] Specializing in manga and comics.</a>
       - title: <a>[%13] Becoming an Apple ecosystem developer.</a>
       - title: <a>[%30] Developing applications running on the cloud.</a>
 

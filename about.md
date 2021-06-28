@@ -46,7 +46,7 @@ NISANTASI UNIVERSITY, Graphic Design — ASSOCIATE DEGREE, 2020 - 2022
 - Successful Marketing Strategies,
 - Documentation Preparation,
 - Growth Management,
-- Product Design,
+- Product Design.
 
 
 ## DESIGN SKILLS
