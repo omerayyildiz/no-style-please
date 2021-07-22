@@ -4,7 +4,7 @@ email: oayyildiz416@gmail.com # email of site's author
 url: https://blog.omerayyildiz.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  Graphics Designer and Baby System Programmer. Team Leader @eebrainteam & Moderator @sdtrdev
+  Graphic Designer & Software Developer
 permalink: /:slug.html
 
 favicon: "favicon.ico" # name+extension of favicon (which must be put on the root folder)
