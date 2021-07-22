@@ -5,19 +5,19 @@ entries:
   - title: About Me
     entries:
       - title: 18 Years Old, Turkish of Arab Descent
-      - title: Graphic Designer and Baby System Programmer
+      - title: Graphic Designer & Software Developer
       - title: Designer <a href="https://connect.nishgt.art" target="_blank">@nishgt</a> & Moderator <a href="https://sdtr.dev" target="_blank">@sdtrdev</a>
       - title: <a href="about.html">Learn More?</a>
   
-  - title: 
-  - title: Social Media
-    entries:
-      - title: <a href="https://github.com/omerayyildiz" target="_blank">github</a>
-      - title: <a href="https://behance.net/omerayyildiz" target="_blank">behance</a>
-      - title: <a href="https://linkedin.com/in/omer-ayyildiz" target="_blank">linkedin</a>
-      - title: <a href="https://twitter.com/omerayyildiz101" target="_blank">twitter</a>
-      - title: <a href="https://pinterest.com/omerayyildiz101" target="_blank">pinterest</a>
-      - title: <a href="https://medium.com/@omerayyildiz" target="_blank">medium</a>
+#  - title: 
+#  - title: Social Media
+#    entries:
+#      - title: <a href="https://github.com/omerayyildiz" target="_blank">github</a>
+#      - title: <a href="https://behance.net/omerayyildiz" target="_blank">behance</a>
+#      - title: <a href="https://linkedin.com/in/omer-ayyildiz" target="_blank">linkedin</a>
+#      - title: <a href="https://twitter.com/omerayyildiz101" target="_blank">twitter</a>
+#      - title: <a href="https://pinterest.com/omerayyildiz101" target="_blank">pinterest</a>
+#      - title: <a href="https://medium.com/@omerayyildiz" target="_blank">medium</a>
   
   - title:
   - title: Projects
@@ -63,24 +63,15 @@ entries:
       - title: <a>Organization:<br><a href="https://www.pmi.org.tr" target="_blank">PMI Turkey</a></a>
       - title: <a>Famous:<br> <a href="https://www.serenavci.com" target="_blank">Seren Avcı</a></a>  
       - title: <a>Education:<br> <a href="https://www.csystem.org" target="_blank">CSD</a>, VIP Campus (Levent), Akademi Atletik, Kağıthane Anatolian High School, Cengizhan Anatolian High School</a>
-      - title: <a>Community:<br> 10+ Discord Communities, 5+ Student Clubs, 2 Slack Communities 
+      - title: <a>Community:<br> 10+ Discord Communities, 5+ Student Clubs, 2 Slack Communities
 
-  - title: 
-  - title: 2021 Goals
-    entries:
-      - title: <a>[%00] Joining a creative company/team.</a>
-      - title: <a>[%10] Advance in book design.</a>
-      - title: <a>[%02] Specializing in manga and comics.</a>
-      - title: <a>[%13] Becoming an Apple ecosystem developer.</a>
-      - title: <a>[%30] Developing applications running on the cloud.</a>
-
-  - title:    
-  - title: Posts
-    post_list:
-      limit: 5
-      show_more: false
-      show_more_text: See archive...
-      show_more_url: archive.html
+#  - title:    
+#  - title: Posts
+#    post_list:
+#      limit: 0
+#      show_more: false
+#      show_more_text: See archive...
+#      show_more_url: archive.html
 
 #  - title: rss
 #    url: feed.xml

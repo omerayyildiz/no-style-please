@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-![omer profile pic](assets/img/omer.png)
-
 Hi, I'm Ömer!
 I have been interested in software and design for about 4 years. Currently, I'm studying graphic design in Turkey. I constantly read articles and do side projects to keep my work clean and qualified. I get along well with people. That's why I work as a management consultant for many communities. I always try to achieve success by handling projects, design, communities, and software from all aspects. I love illustration, typography, minimalism and pixel art.
 
@@ -15,17 +13,25 @@ I have been interested in software and design for about 4 years. Currently, I'm 
 
 I'm responsible for the management of all operations, designs, and marketing in this community that I have established with great enthusiasm. We are working hard to achieve good work in the field of graphic design. In a short time like a month, I have successfully established the whole ecosystem that operates between management and sub-teams and I continue to develop it.
 
+<br/>
+
 **TEAM LEADER, EEBRAINTEAM; ISTANBUL — JUN 2020-JUN 2021**
 
 We produce creative design for communities and organizations. In addition, I also take place in the management of many projects from the design phase to the development phase.
+
+<br/>
 
 **GRAPHIC DESIGNER, TRCPP.ORG; ISTANBUL — FEB 2020-PRESENT**
 
 I'm designing the brand design for the community and the content that needs to be prepared for the event.
 
+<br/>
+
 **MODERATOR, SOFTWARE DEVELOPMENT TURKEY; NOV 2018-PRESENT**
 
 A community of over 1000 people, including famous software developers and designers. I am responsible for the organization and management of many events in this community.
+
+<br/>
 
 **FREELANCER; 2017-PRESENT**
 
